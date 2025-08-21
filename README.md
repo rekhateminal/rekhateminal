@@ -1,13 +1,13 @@
 Hi, I'm Minal Rekhate 👋
 
 🎓 Computer Science Engineering Student (2025 Passout)
-💻 Interested in Databases, SQL, and Full Stack Development
-🚀 Exploring Cloud & Containerization tools (Docker, Kubernetes, OpenStack)
+💻 Interested in Databases, SQL, and Python programming
+🚀 Exploring and learning data science,Power BI,Excle
 
 🛠️ Skills
-Programming & Web: HTML, CSS
-Databases: SQL, DBMS
-Cloud & DevOps Basics: Docker, Kubernetes, OpenStack
+Programming & Web: C,Java,Python,HTML, CSS
+Databases: SQL, DBMS,MYSQL
+Framework-Flask(basic, from project)
 Other Tools: Git, GitHub
 
 📌 Projects (will be adding more soon)
